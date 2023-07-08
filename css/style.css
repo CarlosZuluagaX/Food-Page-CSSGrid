@@ -133,7 +133,7 @@ main .home-menu .home-menu-images .item img {
   width: 100%;
 }
 
-@media (min-width: 1120px) {
+@media (min-width: 920px) {
   main {
     width: 100%;
   }
